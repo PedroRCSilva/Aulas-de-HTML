@@ -1,0 +1,23 @@
+/* body{
+  background: linear-gradient(yellow,orange);
+  background-repeat: no-repeat;
+  height: 100vh;
+} */
+
+
+.titulo{
+  color:red;
+  background-color: green;
+}
+
+.subtitulo{
+  color:green !important;
+}
+
+h1{
+  color:purple;
+}
+
+#teste{
+  color: aqua ;
+}
